@@ -1,0 +1,25 @@
+.cstm_app_root .is-compact .nk-sidebar-element.head_sidebar_nk .nk-sidebar-brand {
+    display: none;
+}
+.cstm_app_root .is-compact.has-hover .nk-sidebar-element.head_sidebar_nk .nk-sidebar-brand {
+    display: block;
+}
+.cstm_app_root .is-compact .nk-sidebar-element.head_sidebar_nk .nk-menu-trigger {
+    padding-left: 15px;
+}
+.cstm_contant_sidebar .simplebar-content {
+    /*justify-content: space-between;
+    min-height: calc(100vh - 130px);*/
+	padding-bottom: 40px;
+}
+.cstm_contant_sidebar .simplebar-content:before,
+.cstm_contant_sidebar .simplebar-content:after {
+    display: none;
+} 
+
+.is-compact .walletbalnc {
+    display: none;
+}
+.is-compact.has-hover .walletbalnc {
+    display: block;
+}
